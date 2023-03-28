@@ -1,0 +1,4 @@
+# Default ignored files
+birthday/env/
+birthday/__pycache__/
+birthday/.idea/
